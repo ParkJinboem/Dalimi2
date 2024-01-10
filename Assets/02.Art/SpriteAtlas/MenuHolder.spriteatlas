@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MenuHolder
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3e5f87c14716b4c8696e4213299e3120, type: 3}
+    - {fileID: 102900000, guid: 730018f8d629344e2b287c4f56dab266, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8eb25e30e51c54c0a98802b6831c0477, type: 3}
+  - {fileID: 21300000, guid: 3f1fe1d0cbfad429281be561c3d22cc3, type: 3}
+  - {fileID: 21300000, guid: bdfc7dd0e82784852b5665f4412a5b19, type: 3}
+  - {fileID: 21300000, guid: 36289512f5e374843b3cc1c270c9a892, type: 3}
+  - {fileID: 21300000, guid: 0bb91222294f54c11813fe4c231c5e3b, type: 3}
+  - {fileID: 21300000, guid: 57128862d4fea4a5eada1bd851f4d93f, type: 3}
+  - {fileID: 21300000, guid: a4274292fb2904f92b6538f66ccd6203, type: 3}
+  - {fileID: 21300000, guid: 2b4b18f2d60ff4fb3b75b1854efcdd85, type: 3}
+  - {fileID: 21300000, guid: c770b803871c14fb1ae22d7d0346e232, type: 3}
+  - {fileID: 21300000, guid: 50d41323ea9fb4371a63af1dec9544ce, type: 3}
+  - {fileID: 21300000, guid: 6ef127233f3e5402eab3ae7e5f423c29, type: 3}
+  - {fileID: 21300000, guid: 81f8cb24de90142c483c49f72a8a2a15, type: 3}
+  - {fileID: 21300000, guid: af8d2fd441ca4467880923ff48aa4d34, type: 3}
+  - {fileID: 21300000, guid: e06824e419f604c3e87c0ccb8ea45052, type: 3}
+  - {fileID: 21300000, guid: 707d1035459ee4fc89ba3018d45db740, type: 3}
+  - {fileID: 21300000, guid: 560e1655f9f79492e9392dac11df6260, type: 3}
+  - {fileID: 21300000, guid: 64da9f75dcb3248dd96c140b6a0470d7, type: 3}
+  - {fileID: 21300000, guid: 73849596c3d2e47baae70f968044cfd1, type: 3}
+  - {fileID: 21300000, guid: 126528c6b25864c259ac23d2b83cb8b0, type: 3}
+  - {fileID: 21300000, guid: 95d3a2e6838614ab4a4ce9be33dddd4e, type: 3}
+  - {fileID: 21300000, guid: 3345c9f64e1e24c9a936bf289ae3bbb8, type: 3}
+  - {fileID: 21300000, guid: 2d00cf27bc16f4e59b0800d6362f5dc7, type: 3}
+  - {fileID: 21300000, guid: db8f9187e73ca4430ab7ccb69a653039, type: 3}
+  - {fileID: 21300000, guid: 67415ea77c52149c59f9b43058d0fad5, type: 3}
+  - {fileID: 21300000, guid: 4eadaeb7df7ae4710a99e9fba2657f7d, type: 3}
+  - {fileID: 21300000, guid: dee502c7b19974b759074224acf48f5a, type: 3}
+  - {fileID: 21300000, guid: cce5e608eed6d49e5bd5574bcdd6bbef, type: 3}
+  - {fileID: 21300000, guid: 137a7158e8a5a4ee3b1511558f5e1358, type: 3}
+  - {fileID: 21300000, guid: a4e79568a8c68419b9abe11a94aaad94, type: 3}
+  - {fileID: 21300000, guid: 55cef969902b845f9bf23738d557e475, type: 3}
+  - {fileID: 21300000, guid: efcca2995d10a447bb4c46928531afb2, type: 3}
+  - {fileID: 21300000, guid: c96c9b5a0ea4340b88ce3de11d3dfef0, type: 3}
+  - {fileID: 21300000, guid: bb72107a541f24c88b5d74f9264f1505, type: 3}
+  - {fileID: 21300000, guid: bab3373bda4cb42d886128497efd158c, type: 3}
+  - {fileID: 21300000, guid: 1519fa7cefd1540e48beaca078302a0c, type: 3}
+  - {fileID: 21300000, guid: f99e8abc788764cd89f45554f0fc308f, type: 3}
+  - {fileID: 21300000, guid: 16041aad892cd4859b2e4848fbd938ae, type: 3}
+  - {fileID: 21300000, guid: ff4421fdfbde84da795d2e7d9d9a16b4, type: 3}
+  - {fileID: 21300000, guid: 8d75802eaa060435d80706d995b2c553, type: 3}
+  - {fileID: 21300000, guid: 92139d6e69918419ead4e3a437b45021, type: 3}
+  - {fileID: 21300000, guid: 6970877e23c9e41daa2acc44c6adb52f, type: 3}
+  - {fileID: 21300000, guid: 22fd3f7e9b6df43eeae658290c5fde4d, type: 3}
+  - {fileID: 21300000, guid: 5a425c8ecbe094f62b35e418e038ab92, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 11step_BackHair
+  - MaskPack
+  - 08step_Eyes
+  - 01step_shower
+  - Soap
+  - Cream
+  - Towel
+  - 18step_Earring_OFF
+  - 10step_Mouth
+  - 11step_BackHair_OFF
+  - 18step_Earring
+  - 02step_towel
+  - Massage
+  - 23step_Bag
+  - SizeBar
+  - ShowerStand
+  - 21step_Bracelet
+  - 15step_Shoes
+  - 07step_cheek_OFF
+  - 16step_Glasses
+  - 00step_soap
+  - 19step_Neckless
+  - SoapStand
+  - 06step_cream
+  - Shower
+  - 12step_Shirts
+  - 05step_cucumble
+  - 22step_Pet
+  - MaskPackStand
+  - CelarMark
+  - 13step_Pants
+  - 14step_Socks
+  - 17step_HeadDress
+  - 20step_FaceAcessory
+  - 03step_massage
+  - Cheek
+  - CreamStandCap
+  - 09step_Eyesbrow
+  - 04step_mask
+  - CreamStand
+  - MassageStand
+  - 07step_cheek
+  - Cucumble
+  m_RenderDataMap: {}
+  m_Tag: MenuHolder
+  m_IsVariant: 0
