@@ -198,7 +198,8 @@ public class Character : MonoBehaviour
                 GameObject partObj = characterPartDictionary.FirstOrDefault(x => x.Value == closetKind).Key.gameObject;
                 SpritePos = new Vector3(partObj.GetComponent<Image>().sprite.pivot.x, -partObj.GetComponent<Image>().sprite.pivot.y, 0);
                 particleObj.transform.localPosition = partObj.transform.localPosition + SpritePos;
-                particleObj.GetComponent<Coffee.UIExtensions.UIParticle>().scale = 500.0f;
+                //네임 스페이스 에러_240110 박진범
+                //particleObj.GetComponent<Coffee.UIExtensions.UIParticle>().scale = 500.0f;
             }
         }
         particlePlay = false;
